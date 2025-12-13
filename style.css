@@ -1,5 +1,7 @@
 * {
     box-sizing: border-box
+    /* all style */
+    /* all style2 test */
 }
 
 html,
@@ -60,5 +62,3 @@ button.op {
 button.zero {
     grid-column: span 2
 }
-
-/* test git */
